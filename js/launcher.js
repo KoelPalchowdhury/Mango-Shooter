@@ -31,7 +31,7 @@ class launcher{
 			var pointA=this.bodyA.position;
 			var pointB=this.pointB
 
-			strokeWeight(2);		
+			strokeWeeight(2);		
 			line(pointA.x,pointA.y,pointB.x,pointB.y);
 		}
 	}
